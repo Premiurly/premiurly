@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack -p"
+    "build": "webpack -p",
+    "deploy": "firebase deploy",
+    "publish": "npm run build && npm run deploy"
   },
   "repository": {
     "type": "git",
