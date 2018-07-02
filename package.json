@@ -1,7 +1,7 @@
 {
   "name": "premiurly",
   "version": "0.0.1",
-  "description": "A simple Blockstack app using ReactJS",
+  "description": "premiurly is a platform for content creators to monetise their work",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
